@@ -1,0 +1,2 @@
+# sentiment-polarity-analyzer-with-binary-logistic-regression-from-stretch
+A sentiment polarity analyzer with binary logistic regression build from stretch. Implemented a working Natural Language Processing (NLP) system, i.e., a sentiment polarity analyzer, using binary logistic regression. To determine whether a review is positive or negative using movie reviews as data. A basic feature engineering, through which you are able to improve the learner’s performance on this task. Wrote two programs: feature.py and lr.py to jointly complete the task.
