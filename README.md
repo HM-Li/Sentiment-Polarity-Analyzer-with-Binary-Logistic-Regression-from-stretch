@@ -32,3 +32,5 @@ Examples of the data are as follows.
 0 america’s favorite homicidal plaything takes a wicked wife in " ...  
 
 ![program 1](https://github.com/HM-Li/Sentiment-Polarity-Analyzer-with-Binary-Logistic-Regression-from-stretch/blob/master/Instruction.png)  
+## Reference
+10-601 Introduction to Machine Learning (Fall 2018)
